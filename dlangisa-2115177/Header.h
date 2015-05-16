@@ -9,7 +9,7 @@ GameObject::GameObject()
 	velY = 0;
 
 	dirX = 0;
-	dirY = 0;
+	dirY = 0; 
 
 	boundX = 0;
 	boundY = 0;
